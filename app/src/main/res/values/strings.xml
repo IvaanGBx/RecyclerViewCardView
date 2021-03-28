@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecyclerViewCardView</string>
+
+    <string name="name">Daniel</string>
+    <string name="name1">Alejandra</string>
+    <string name="name2">Pedro</string>
+    <string name="name3">Lucas</string>
+    <string name="name4">Martin</string>
+    <string name="name5">Stefanny</string>
+    <string name="name6">Marcos</string>
+    <string name="name7">Lucia</string>
+    <string name="name8">Oscar</string>
+    <string name="name9">Javier</string>
+
+    <string name="city">Barranquilla</string>
+    <string name="city1">Bogota</string>
+    <string name="city2">Medellin</string>
+    <string name="city3">Bucaramanga</string>
+    <string name="city4">Cali</string>
+
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+</resources>
